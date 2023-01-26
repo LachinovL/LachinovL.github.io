@@ -1,0 +1,43 @@
+
+body {
+    background-color: rgb(219, 86, 9);
+}
+
+.righteye {
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 25%;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(10, 167, 57);
+}
+
+.leftteye {
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 65%;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(182, 8, 8);
+}
+
+.lips {
+    position: absolute;
+    margin-top: 70%;
+    margin-left: 25%;
+    width: 50px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(238, 255, 0);
+}
+
+.element { 
+    
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #590bd6;
+}
